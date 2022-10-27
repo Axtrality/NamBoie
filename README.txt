@@ -1,11 +1,11 @@
 
 TITLE: 
-Roxy - Bootstrap 4 template built by GetTemplates.co
+Roxy - Bootstrap 4 Website https://axtrality.shop/
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
+DESIGNED & DEVELOPED by Atxrality.shop
 
-Websites: https://gettemplates.co https://freehtml5.co/
+Websites: https://axtrality.shop/
 
 
 CREDITS:
@@ -15,9 +15,6 @@ http://getbootstrap.com/
 
 jQuery
 http://jquery.com/
-
-OwlCarousel
-https://owlcarousel2.github.io/OwlCarousel2/
 
 Isotope
 https://isotope.metafizzy.co
